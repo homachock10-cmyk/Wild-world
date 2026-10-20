@@ -1,0 +1,20 @@
+{
+  "name": "Wild World — Дикий мир",
+  "short_name": "Wild World",
+  "description": "Красочное приключение с лисёнком в 3D-лесу",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#a8dfc6",
+  "theme_color": "#183c35",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
